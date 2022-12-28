@@ -1,4 +1,4 @@
-# historical-pricing-analysis
+# Historical-pricing-analysis
 
 Creating a master file of all the historical pricing starting 2018 - present of teh PCBA components. 
 Pre-processing the data: 
